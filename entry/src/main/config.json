@@ -34,7 +34,9 @@
               "entity.system.home"
             ],
             "actions": [
-              "action.system.home"
+              "action.system.home",
+              "entry.home.list",
+              "entry.home.list.detail"
             ]
           }
         ],
